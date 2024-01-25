@@ -1,4 +1,0 @@
-{
-  "appService.defaultWebAppToDeploy": "/subscriptions/f9034a8f-a0cd-487c-91d0-d351bb91fcf6/resourceGroups/InitialGroup/providers/Microsoft.Web/sites/HelloKanishka",
-  "appService.deploySubpath": "."
-}
